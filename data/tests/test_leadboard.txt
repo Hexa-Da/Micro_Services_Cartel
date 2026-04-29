@@ -1,0 +1,6 @@
+CLASSEMENT DES PARIEURS (2 ligne(s))
+------------------------------------------------------------------------------------------
+Rang  Bracelet       Nom          Prénom       Délégation      Bons Pariés  %Réussite
+------------------------------------------------------------------------------------------
+1     342            Bertrand     Jade         Mines Nancy     20   33          60.6%
+2     100            Exemple      Camille      Mines Albi      10   33          30.3%

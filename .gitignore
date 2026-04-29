@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Privates sources
+data/resources/*
+data/input/*

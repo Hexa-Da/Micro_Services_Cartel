@@ -1,0 +1,1564 @@
+{
+  "Mines Albi": {
+    "Athlétisme_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Eurecom": 2,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Mines Sainté": 2,
+        "Télécom Nancy": 2
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 2,
+        "Télécom Paris": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 10,
+      "votes": {
+        "IMT NE": 2,
+        "ENSIC": 1,
+        "Eurecom": 2,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Mines Paris": 1,
+        "Télécom Paris": 3
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 10,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "ENSIC": 1,
+        "Eurecom": 2,
+        "IMT A": 1,
+        "Mines Sainté": 2,
+        "TSP": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "ENSAIA": 3,
+        "IMT A": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 2,
+        "ENSIC": 1,
+        "IMT A": 2,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 2,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Alès": 3,
+        "IMT NE": 2,
+        "ENSAIA": 2,
+        "Eurecom": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 2,
+        "Ponts": 2,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 2,
+        "ENSIC": 3,
+        "Eurecom": 1,
+        "Mines Nancy": 3,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Mines Alès": {
+    "Athlétisme_mixte": {
+      "totalVotes": 2,
+      "votes": {
+        "Mines Alès": 1,
+        "Mines Paris": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT A": 1,
+        "Mines Nancy": 2,
+        "Télécom Paris": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Albi": 1,
+        "Eurecom": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 2,
+        "IMT A": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 3,
+      "votes": {
+        "ENSAIA": 2,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "IMT NE": {
+    "Athlétisme_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 4,
+        "TSP": 2,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 2,
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSAIA": 2,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Mines Paris": 2,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 10,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 2,
+        "IMT A": 3,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 2,
+        "ENSIC": 2,
+        "Mines Nancy": 1,
+        "Mines Sainté": 2,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 2
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 10,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Mines Paris": 3,
+        "Mines Sainté": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "ENSIC": 2,
+        "IMT A": 2,
+        "Mines Paris": 2,
+        "Ponts": 1,
+        "TSP": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Mines Nancy": 2,
+        "Mines Paris": 1,
+        "Télécom Nancy": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Albi": 2,
+        "ENSIC": 2,
+        "Eurecom": 1,
+        "IMT A": 2,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Télécom Nancy": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 10,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "IMT A": 2,
+        "Mines Paris": 1,
+        "Ponts": 3,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 11,
+      "votes": {
+        "Mines Alès": 1,
+        "Eurecom": 1,
+        "Mines Paris": 2,
+        "Ponts": 3,
+        "TSP": 1,
+        "Télécom Nancy": 2,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "ENSAIA": {
+    "Athlétisme_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "Eurecom": 1,
+        "Mines Paris": 2,
+        "Ponts": 1,
+        "Mines Sainté": 3
+      }
+    },
+    "Basketball_féminin": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSIC": 1,
+        "Mines Paris": 1,
+        "Ponts": 3,
+        "Télécom Nancy": 2
+      }
+    },
+    "Basketball_masculin": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Télécom Nancy": 2,
+        "Télécom Paris": 1
+      }
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Mines Paris": 2,
+        "Ponts": 2,
+        "Mines Sainté": 2
+      }
+    },
+    "Football_féminin": {
+      "totalVotes": 9,
+      "votes": {
+        "ENSAIA": 1,
+        "ENSIC": 2,
+        "Eurecom": 2,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      }
+    },
+    "Football_masculin": {
+      "totalVotes": 8,
+      "votes": {
+        "IMT NE": 1,
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "Ponts": 2,
+        "Mines Sainté": 1,
+        "Télécom Paris": 2
+      }
+    },
+    "Natation_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 2,
+        "IMT A": 2,
+        "Ponts": 2,
+        "Mines Sainté": 2
+      }
+    },
+    "Rugby_féminin": {
+      "totalVotes": 9,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 2,
+        "Télécom Paris": 2
+      }
+    },
+    "Rugby_masculin": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 2,
+        "Eurecom": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      }
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 3,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1
+      }
+    }
+  },
+  "ENSIC": {
+    "Athlétisme_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "Mines Nancy": 1,
+        "Télécom Nancy": 2
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 2,
+        "Mines Paris": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 3,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSAIA": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT A": 1,
+        "Mines Sainté": 2,
+        "Télécom Nancy": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSIC": 2,
+        "Ponts": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "TSP": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Albi": 2,
+        "ENSAIA": 1,
+        "ENSIC": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "IMT A": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "Eurecom": 1,
+        "Mines Paris": 2,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Eurecom": {
+    "Athlétisme_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSIC": 1,
+        "Mines Sainté": 1,
+        "Télécom Paris": 2
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Mines Paris": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSIC": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 2,
+        "IMT A": 1,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "ENSIC": 1,
+        "Ponts": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 2,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Ponts": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Mines Paris": 2,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSAIA": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "IMT A": {
+    "Athlétisme_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Alès": 2,
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "IMT A": 1,
+        "Mines Paris": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Ponts": 2,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 2,
+        "Mines Alès": 1,
+        "Eurecom": 2,
+        "IMT A": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 7,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 2,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 2,
+        "IMT NE": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "TSP": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Alès": 2,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Mines Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Mines Paris": 1,
+        "TSP": 2,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Mines Sainté": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 6,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "Télécom Nancy": 3
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Mines Nancy": {
+    "Athlétisme_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT A": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "Ponts": 2,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 3,
+      "votes": {
+        "IMT A": 2,
+        "Télécom Paris": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Ponts": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Eurecom": 2,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 2,
+        "ENSAIA": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 3,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 1,
+        "Mines Nancy": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Mines Paris": {
+    "Athlétisme_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "ENSIC": 1,
+        "Eurecom": 3,
+        "Mines Sainté": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "IMT NE": 2,
+        "IMT A": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "IMT NE": 1,
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 3,
+        "Mines Alès": 1,
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 2,
+        "Mines Nancy": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 7,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 2,
+        "Mines Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Ponts": {
+    "Athlétisme_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "IMT A": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "TSP": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSIC": 2,
+        "Mines Sainté": 2
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Albi": 2,
+        "ENSAIA": 1,
+        "Mines Sainté": 2,
+        "Télécom Nancy": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 2
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 6,
+      "votes": {
+        "IMT NE": 1,
+        "IMT A": 2,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Mines Paris": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSAIA": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Mines Sainté": {
+    "Athlétisme_mixte": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 2,
+        "Mines Alès": 1,
+        "IMT A": 1,
+        "Mines Paris": 2,
+        "Ponts": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "ENSIC": 1,
+        "Ponts": 1,
+        "TSP": 2,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 9,
+      "votes": {
+        "Mines Albi": 1,
+        "IMT NE": 1,
+        "Eurecom": 2,
+        "Mines Nancy": 1,
+        "Mines Paris": 3,
+        "TSP": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 8,
+      "votes": {
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 2,
+        "TSP": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 1,
+        "IMT NE": 2,
+        "Mines Nancy": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 2,
+        "Eurecom": 2,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 9,
+      "votes": {
+        "ENSAIA": 1,
+        "ENSIC": 2,
+        "IMT A": 2,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "TSP": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 1,
+        "Mines Alès": 2,
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Mines Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 8,
+      "votes": {
+        "Mines Albi": 1,
+        "Eurecom": 2,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "TSP": 3
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "TSP": {
+    "Athlétisme_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Albi": 1,
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 3,
+      "votes": {
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "Eurecom": 2,
+        "Mines Sainté": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "Mines Paris": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 2,
+      "votes": {
+        "Mines Paris": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Albi": 2,
+        "Mines Nancy": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 1,
+        "Eurecom": 1,
+        "Mines Paris": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Télécom Nancy": {
+    "Athlétisme_mixte": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "ENSIC": 2,
+        "IMT A": 2,
+        "Ponts": 1,
+        "TSP": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Eurecom": 1,
+        "Mines Nancy": 3,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 6,
+      "votes": {
+        "Mines Nancy": 2,
+        "Mines Paris": 1,
+        "TSP": 1,
+        "Télécom Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 6,
+      "votes": {
+        "ENSIC": 2,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Alès": 1,
+        "IMT NE": 1,
+        "ENSAIA": 1,
+        "Mines Nancy": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSAIA": 1,
+        "Mines Paris": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 2,
+        "Mines Alès": 1,
+        "ENSIC": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    }
+  },
+  "Télécom Paris": {
+    "Athlétisme_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Nancy": 1,
+        "Ponts": 1,
+        "Mines Sainté": 1,
+        "Télécom Nancy": 2
+      },
+      "winner": "Mines Albi"
+    },
+    "Basketball_féminin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 2,
+        "IMT A": 1,
+        "Mines Nancy": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Basketball_masculin": {
+      "totalVotes": 4,
+      "votes": {
+        "IMT NE": 1,
+        "ENSIC": 2,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Nancy"
+    },
+    "DJ Contest_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSAIA": 1,
+        "Eurecom": 1,
+        "IMT A": 1,
+        "Mines Nancy": 2
+      },
+      "winner": "ENSAIA"
+    },
+    "Football_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "Mines Alès": 1,
+        "ENSAIA": 1,
+        "Mines Nancy": 1,
+        "Mines Sainté": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Football_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "IMT NE": 1,
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Mines Paris": 1,
+        "Ponts": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Natation_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "ENSIC": 1,
+        "Mines Nancy": 1,
+        "Mines Paris": 1,
+        "Mines Sainté": 1,
+        "Télécom Paris": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_féminin": {
+      "totalVotes": 4,
+      "votes": {
+        "ENSIC": 1,
+        "Eurecom": 1,
+        "Ponts": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Rugby_masculin": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Albi": 2,
+        "ENSIC": 1,
+        "IMT A": 1,
+        "Télécom Nancy": 1
+      },
+      "winner": "Mines Alès"
+    },
+    "Show Pompom_mixte": {
+      "totalVotes": 5,
+      "votes": {
+        "Mines Alès": 1,
+        "Eurecom": 1,
+        "Mines Paris": 3
+      },
+      "winner": "Mines Alès"
+    }
+  }
+}

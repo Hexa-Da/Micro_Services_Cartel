@@ -1,0 +1,7 @@
+CLASSEMENT DES DÉLÉGATIONS PAR PRÉCISION DES PARIS (2 ligne(s))
+Métrique : (votes sur le vainqueur) / (total des votes), tous sports avec résultat.
+----------------------------------------------------------------------------------------
+Rang  Délégation                %Précision     Bons/total votes   Sports
+----------------------------------------------------------------------------------------
+1     Mines Nancy                   21.42%             867/4048       33
+2     Mines Albi                    25.51%            1164/4563       33
